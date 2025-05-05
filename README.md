@@ -18,3 +18,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fandyhanz&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="fandyhanz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fandyhanz&theme=dark" alt="fandyhanz" /></p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
