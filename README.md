@@ -57,7 +57,7 @@ data_engineering_and_devops:
   - Relational: MySQL, PostgreSQL, MariaDB, MS SQL Server
   - Non-Relational: MongoDB
   - Tools & Infra: Git, Postman, Docker, Nginx
-```
+
 
 {
   "active_workstreams": {
@@ -69,6 +69,7 @@ data_engineering_and_devops:
   "methodology": "Practical implementation through repeatable system-level benchmarking"
 }
 
+```
 ---
 
 ### 📊 GitHub Activity & Metrics
