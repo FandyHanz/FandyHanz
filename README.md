@@ -22,7 +22,7 @@
 
 ### 📌 About Me
 
-Software Engineer and Security Enthusiast currently pursuing a **D-IV in Informatics Engineering** at [State Polytechnic of Malang (Polinema)](https://id.linkedin.com/in/fandy-wahyu-hanzura-0b4171369) (Class of 2023).
+Software Engineer and Security Enthusiast currently pursuing a **Bachelor Applied in Informatics Engineering** at [State Polytechnic of Malang (Polinema)](https://id.linkedin.com/in/fandy-wahyu-hanzura-0b4171369) (Class of 2023).
 
 My work focuses on bridging low-level system behaviors, robust data architectures, and reactive modern application development. Experienced across full-stack web platforms and cross-platform mobile environments, emphasizing practical implementation, repeatable benchmarking, and secure system design.
 
@@ -86,7 +86,7 @@ data_engineering_and_devops:
 
 ### 🎓 Education
 
-* **D-IV Teknik Informatika** — [Politeknik Negeri Malang](https://id.linkedin.com/in/fandy-wahyu-hanzura-0b4171369) *(2023 – Present)*
+* **Bachelor Applied in Informatics Engineering** — [Politeknik Negeri Malang](https://id.linkedin.com/in/fandy-wahyu-hanzura-0b4171369) *(2023 – Present)*
 * **State senior High School 9 of Malang**
 * **Saint Joseph Catholic Junior High School**
 
